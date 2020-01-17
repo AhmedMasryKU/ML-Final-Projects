@@ -91,7 +91,7 @@ following values:
 - Target6 ~= 0.78
 
 Moreover, I plotted the AUC curve for each target (using Matplotlib and Sklearn) as you can see in the next figure.
-![alt text](https://github.com/AhmedMasryKU/ML-Final-Projects/blob/master/Modeling%20Late%20Payments%20for%20Credit%20Card%20Bills/figure.png)
+![alt text](https://github.com/AhmedMasryKU/ML-Final-Projects/blob/master/Modeling%20Credit%20Card%20Customer%20Behaviors/figure.png)
 # CONSLUSION:
 
 As we can see from the AUC values, my MLP model does a good job in these 6 binary classification
