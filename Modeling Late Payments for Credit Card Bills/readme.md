@@ -91,7 +91,7 @@ After finishing the training, I calculated the AUC value for each target and got
 Moreover, I plotted the AUC curve for each target (using Matplotlib and Sklearn) as you can see in the next
 figure.
 
-![alt text](/home/masry/Academic/ML/Final Projects/Modeling Late Payments for Credit Card Bills/figure.png)
+![alt text](https://github.com/AhmedMasryKU/ML-Final-Projects/blob/master/Modeling%20Late%20Payments%20for%20Credit%20Card%20Bills/figure.png)
 
 # CONSLUSION:
 
